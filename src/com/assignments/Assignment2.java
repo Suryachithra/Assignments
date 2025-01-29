@@ -5,18 +5,6 @@ public class Assignment2 {
 	public static void main(String[] args) {
 
 		// Multi-Dimensional Array Practice
-
-		// 1D Array with semesters
-		String[] semesters = { "Sem 1", "Sem 2", "Sem 3", "Sem 4", "Sem 5" };
- 
-		// 2D Array with Subjects and Marks
-		/*
-		 * String[][] subjectsAndMarks = { { "Subject 1", "Subject 2", "Subject 3",
-		 * "Subject 4", "Subject 5", "Subject 6" }, { "Mark 1", "Mark 2", "Mark 3",
-		 * "Mark 4", "Mark 5", "Mark 6" } };
-		 */
-		
-		String[][]subjectsAndMarks = new String[2][6];
 		
 
 		// 3D Array with actual values for Subject Names and Marks
