@@ -3,6 +3,7 @@ package com.assignments;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -12,7 +13,7 @@ public class Assignment5 {
 	public static void main(String[] args) {
 
        // Creating list of the top 5 most populated countries in the world.
-		List<String> populatedCountries = new ArrayList<String>();
+		List<String> populatedCountries = new LinkedList<String>();
 		populatedCountries.add("China");
 		populatedCountries.add("India");
 		populatedCountries.add("United States");
