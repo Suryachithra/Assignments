@@ -5,7 +5,7 @@ public class Assignment12 {
 	public static void main(String[] args) {
 
 		/*
-		 * Calling the method and printing "true" for prime number //and "false" for
+		 * Calling the method and printing "true" for prime number and "false" for
 		 * non prime number;
 		 */		
 		System.out.println(primeNumber(9));
